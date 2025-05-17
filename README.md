@@ -1,7 +1,7 @@
 # What is this repository?
 This repo maps the layout described in [https://www.redhat.com/en/blog/creating-ansible-controller-config-code-pipeline] and contains the generic logic to manage organization-wide configuration as code in Ansible Automation Platform (AAP).
 
-# What else is needed to implement and organization-wide configuration as code solution?
+# What else is needed to implement an organization-wide configuration as code solution?
 
 A project pointing to this repo needs to be created in Ansible Automation Platform. In the referenced article[^1], the project is named **controller_automator**.
 
